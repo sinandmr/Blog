@@ -30,7 +30,7 @@ Blog project that can be controlled with the admin panel and everything is dynam
    ```
 
 ## Live
-  * [Home Page](https://personal-page.sinandemir.cloud)
-  * [Admin Panel](https://personal-page.sinandemir.cloud/admin)
+  * [Home Page](https://blog.sinandemir.cloud)
+  * [Admin Panel](https://blog.sinandemir.cloud/admin)
   * E-mail : `admin@gmail.com`
   * Password : `123`
